@@ -23,9 +23,6 @@ The system helps students manage their profiles, login ,logout, view attendance 
 - MySQL
 - Bootstrap
 
-## 📷 Screenshots
-(Add screenshots of your project here)
-
 ## 💻 How to Run the Project
 1. Install XAMPP
 2. Copy the project folder to `htdocs`
